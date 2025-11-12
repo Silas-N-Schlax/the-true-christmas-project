@@ -95,6 +95,7 @@ permalink: "/get_involved/index.html"
 
         <h3 data-i18n="getInvolved.voice_season.guidelines.title">Submission Guidelines</h3>
         <p data-i18n="getInvolved.voice_season.guidelines.text">
+          Essays are not the only submissions types allowed, poems, creative stories and more as accepted as long as they keep the theme and point readers to Christ and the true meaning of Christmas.<br><br>
           <b>Title is required.</b><br>
           <b>Authors and editors:</b> must provide full names.<br>
           <b>Length:</b> 500–1500 words.<br>

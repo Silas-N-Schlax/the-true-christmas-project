@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   min-height: 80vh;
-  font-family: 'Tangerine', 'Brush Script MT', cursive;
+  font-family: var(--tangerine-bold-ft)
 }
 
 .hero-grid {

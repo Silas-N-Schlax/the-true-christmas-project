@@ -34,6 +34,12 @@ permalink: "/about/index.html"
   Christmas to shine brightly in every home, every street, and every nation.
 </p>
 <hr>
+<h3 data-i18n="about.whyTitle">Why "The True Christmas Project"?</h3>
+<p class="pg-st" data-i18n="about.whyDesc1">The name “The True Christmas Project” isn’t meant to suggest that it’s the only real or valid Christmas effort. Rather, it’s about pointing back to the true story of Christmas—the birth of Jesus Christ—amid a world that often buries that truth beneath commercialism and noise.</p>
+<hr>
+<p class="pg-st" data-i18n="about.whyDesc2">Our goal is simple: to help people remember the true meaning of Christmas and rediscover the message of hope, love, and redemption that began in a manger. This project exists not to compete with others, but to join the larger mission of believers everywhere who want to make Christ known during the Christmas season.</p>
+
+
 <h3 data-i18n="about.missionTitle">Mission</h3>
 <p class="pg-st" data-i18n="mission">
   The True Christmas Project exists to proclaim the true meaning of Christ’s birth in a world that often silences it. 

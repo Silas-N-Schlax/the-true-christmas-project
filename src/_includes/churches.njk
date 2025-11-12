@@ -1,0 +1,56 @@
+<link rel="stylesheet" href="/assets/css/churches.css">
+
+<div class="church-search">
+  <input type="text" id="churchSearchInput" data-i18n-placeholder="search_placeholder" placeholder="Search by name, time/day, or city/address...">
+</div>
+
+<div class="churches-container">
+  {% for church in churches %}
+    <div class="church">
+      <div class="image">
+        <img src="{{church.logo}}" alt="{{church.name}}'s Logo">
+      </div>
+      <div class="info">
+        <h3 class="name"><a href="{{church.link}}">{{church.name}}</a></h3>
+        <p class="address">{{church.address}}</p>
+        <p class="time">{{church.time}}</p>
+        <p class="notes">{{church.notes}}</p>
+      </div>
+    </div>
+  {% endfor %}
+  <p class="no-results" data-i18n="no_results" style="display:none;">No churches match your search. Try a different term!</p>
+</div>
+
+
+
+<script>
+const searchInput = document.getElementById('churchSearchInput');
+const churches = document.querySelectorAll('.churches-container .church');
+const noResults = document.querySelector('.churches-container .no-results');
+
+searchInput.addEventListener('input', function () {
+  const query = this.value.toLowerCase().trim();
+  const terms = query.split(/\s+/).filter(Boolean); // split by spaces into keywords
+  let anyVisible = false;
+
+  churches.forEach(church => {
+    const name = church.querySelector('.name').innerText.toLowerCase();
+    const time = church.querySelector('.time').innerText.toLowerCase();
+    const address = church.querySelector('.address').innerText.toLowerCase();
+    const combined = `${name} ${time} ${address}`;
+
+    // Match if ALL words are found somewhere in combined text
+    const matchesAll = terms.every(term => combined.includes(term));
+
+    if (matchesAll) {
+      church.style.display = ''; // restore flex layout
+      anyVisible = true;
+    } else {
+      church.style.display = 'none';
+    }
+  });
+
+  // Show or hide "no results" message
+  noResults.style.display = anyVisible ? 'none' : 'block';
+});
+</script>

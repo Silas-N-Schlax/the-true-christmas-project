@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include "css.njk" %}
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <title>{{page_title}} | The True Christmas Project</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  <div class="cont-container">
+    <div class="hero-container">
+      <section class="hero-grid">
+        <div class="hero-row top">
+          <a href="#" class="hero-card large">
+            <img src="https://media.istockphoto.com/id/1191901313/photo/nativity-of-jesus-scene-with-the-holy-family-with-comet-at-sunrise.jpg?s=612x612&w=0&k=20&c=wruGnK1Uetv4Ltr5Y6V4W5uL2m8eE7e8Y-EQO44m5OE=" alt="Nativity scene">
+            <p data-i18n="noise_nativity">The Noise And The Nativity</p>
+          </a>
+
+          <a href="/story" class="hero-card large">
+            <img src="https://images.pexels.com/photos/6519181/pexels-photo-6519181.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Candy Cane">
+            <p data-i18n="candy_cane">The Story of the Candy Cane</p>
+          </a>
+        </div>
+
+        <div class="hero-row bottom">
+          <a href="/voices_of_the_season" class="hero-card small">
+            <img src="https://images.pexels.com/photos/10438600/pexels-photo-10438600.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Voices of the Season">
+            <p data-i18n="voices_season">Voices of the Season</p>
+          </a>
+
+          <a href="/get_involved" class="hero-card small">
+            <img src="https://images.pexels.com/photos/5473153/pexels-photo-5473153.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Get Involved">
+            <p data-i18n="get_involved">Get Involved</p>
+          </a>
+
+          <a href="/about" class="hero-card small">
+            <img src="https://images.pexels.com/photos/10874346/pexels-photo-10874346.jpeg?auto=compress&cs=tinysrgb&w=800" alt="About Us">
+            <p data-i18n="about_us">About Us</p>
+          </a>
+        </div>
+      </section>
+    </div>
+
+    
+    {% include "churches.njk" %}
+
+    <div class="filler"></div>
+
+  </div>
+
+  {% include "footer.njk" %}
+  
+</body>
+</html>

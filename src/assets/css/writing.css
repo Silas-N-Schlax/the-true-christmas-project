@@ -1,0 +1,84 @@
+.writing {
+  padding: 20px;
+
+  .title {
+    font-family: var(--tangerine-bold-ft);
+    font-size: calc(var(--font-size) * 2);
+    text-align: center;
+    display: block;
+    padding-bottom: 10px;
+  }
+
+  /* Make normal essay text inline */
+  p, i, em, b, strong, span, a, u, small, mark {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+    line-height: 1.6;
+    font-family: var(--cormant-ft);
+    font-size: var(--font-size * 1.1);
+    text-decoration: none;
+  }  
+
+  hr {
+    visibility: hidden;
+    height: 1px;
+    padding: 0;
+  }
+
+  h3 {
+    font-family: var(--arch-ft);
+    font-size: calc(var(--font-size) * 1.4);
+    margin-top: 2rem;
+    margin-bottom: 0.25rem;
+    font-weight: bold;
+  }
+
+  .pg-st { /* Paragraph start*/
+    text-indent: 1em;
+    padding-left: 20px;
+  }
+
+  /* Essay meta info styling */
+  .essay-meta {
+    font-family: var(--arch-ft);
+    font-size: 0.9rem;
+    color: var(--color-grey);
+    margin-top: 2rem;          
+    padding-top: 0.5rem;      
+    border-top: 1px solid rgba(0,0,0,0.1); 
+  }
+
+  
+  .essay-meta span.meta-item,
+  .essay-meta span + text { 
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+
+  .downloads {
+    font-size: var(--font-size);
+    text-align: center;
+  }
+  .downloads a {
+    color: var(--color-primary);
+    font-weight: bolder;
+    font-size: calc(var(--font-size) * 1.4);
+  }
+}
+
+
+@media (max-width: 768px) {
+  .writing {
+    padding: 10px;
+    .essay-meta {
+      font-size: var(--font-mobile);
+    }
+
+    p, i, em, b, strong, span, a, u, small, mark {
+      line-height: 1.4;
+      font-family: var(--cormant-ft);
+    }  
+  }
+}

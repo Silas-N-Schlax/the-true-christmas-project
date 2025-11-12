@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% include "css.njk" %}
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <title>{{page_title}} | The True Christmas Project</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  <div class="cont-container">
+
+    <div class="filler"></div>
+
+    <div class="writing">
+
+      {{content | safe}}
+
+      {% if submissionContent == true %}
+        {% include "submission-grid.njk" %}
+      {% endif %}
+
+
+      <div class="essay-meta">
+        {% if authors %}
+          <span class="meta-item"><strong data-i18n="author">Author(s):</strong> {{ authors | join(', ') }}</span>
+        {% endif %}
+        
+        {% if editors %}
+          <span class="meta-item"><strong data-i18n="editor">Editor(s):</strong> {{ editors | join(', ') }}</span>
+        {% endif %}
+        
+        {% if published %}
+          <span class="meta-item"><strong data-i18n="publish">Published:</strong> {{ published }}</span>
+        {% endif %}
+      </div>
+
+    </div>
+
+
+
+
+    <div class="filler"></div>
+
+  </div>
+
+  {% include "footer.njk" %}
+  
+</body>
+</html>

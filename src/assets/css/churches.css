@@ -1,0 +1,116 @@
+/* Church search bar container */
+.church-search {
+  width: 90%;
+  max-width: 600px;
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+.church-search input {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+  border: 2px solid var(--color-grey);
+  border-radius: 0.5rem;
+  outline: none;
+  font-family: var(--arch-ft);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.church-search input:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 5px rgba(212, 175, 55, 0.5); /* candle gold highlight */
+}
+
+/* Church container as grid */
+.churches-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns desktop */
+  gap: 1.5rem;
+  width: 90%;
+  max-width: 1000px;
+  margin: 2rem auto;
+  font-family: var(--arch-ft);
+  color: var(--color-text);
+}
+
+.church {
+  display: flex;
+  flex-direction: row;
+}
+.church .image img {
+  width: 85px;
+  height: 85px;
+  padding-right: 7px;
+  object-fit: contain;
+}
+
+/* Mobile: 1 column */
+@media (max-width: 768px) {
+  .churches-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Individual church card */
+.church {
+  background-color: var(--color-section-bg);
+  padding: 1rem 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.church:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+}
+
+/* Name and link */
+.church h3.name {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.4rem;
+  color: var(--color-primary);
+}
+
+.church h3.name a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.church h3.name a:hover {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+/* Address */
+.church p.address {
+  margin: 0 0 0.25rem 0;
+  font-size: 1rem;
+  color: var(--color-grey);
+}
+
+/* Time */
+.church p.time {
+  margin: 0 0 0.25rem 0;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--color-secondary);
+}
+
+/* Notes */
+.church p.notes {
+  font-size: calc(var(--font-size) * 0.7);
+  margin: 0;
+}
+
+/* No results message */
+.churches-container .no-results {
+  grid-column: 1 / -1;
+  text-align: center;
+  font-size: 1rem;
+  font-style: italic;
+  color: var(--color-primary);
+  margin-top: 1rem;
+}

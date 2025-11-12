@@ -1,0 +1,207 @@
+/* Footer base */
+.site-footer {
+  background-color: var(--color-footer-bg);
+  color: var(--color-footer-text);
+  font-family: var(--arch-ft);
+  padding: 3rem 2rem;
+  font-size: var(--font-size);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Links - Key & Extra sections */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.footer-links a {
+  color: var(--color-footer-text);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-family: var(--cormant-ft);
+  font-size: 1rem;
+  position: relative;
+}
+
+.footer-links a::after {
+  content: '';
+  display: block;
+  height: 2px;
+  background: var(--color-footer-hover);
+  width: 0;
+  transition: width 0.3s;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+}
+
+.footer-links a:hover::after {
+  width: 100%;
+}
+
+.footer-links a:hover {
+  color: var(--color-footer-hover);
+}
+
+/* Horizontal rule between link sections */
+.footer-links-hr {
+  width: 80%;
+  max-width: 600px;
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  margin: 1.5rem auto;
+}
+
+/* Language section */
+.footer-languages {
+  display: flex;
+  align-items: center; 
+  gap: 0.8rem;
+  margin-top: 2rem;
+}
+
+.footer-languages label {
+  font-weight: 600;
+  color: var(--color-footer-text);
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+/* Custom dropdown */
+.custom-select-wrapper {
+  position: relative;
+  width: 180px;
+}
+
+.custom-select-wrapper select {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  font-family: var(--arch-ft);
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  background-color: var(--color-dropdown-bg);
+  color: var(--color-footer-text);
+  cursor: pointer;
+  appearance: none;
+  transition: all 0.3s ease;
+}
+
+.custom-select-wrapper select:hover {
+  background-color: var(--color-primary);
+  color: var(--color-bg);
+}
+
+/* Arrow icon */
+.custom-select-wrapper::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 0.8rem;
+  width: 0.8rem;
+  height: 0.8rem;
+  pointer-events: none;
+  transform: translateY(-50%);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-chevron-down' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* Fix options readability */
+.custom-select-wrapper select option {
+  background-color: var(--color-dropdown-bg);
+  color: var(--color-footer-text);
+  font-family: var(--arch-ft);
+}
+
+/* Footer bottom */
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,0.2);
+
+  text-align: center;
+  font-size: 0.95rem;
+  font-family: var(--cormant-ft);
+  color: var(--color-footer-text);
+  width: 100%;
+  max-width: 1200px;
+}
+
+/* Footer disclaimer container */
+.footer-disclaimer {
+  font-size: 0.8rem;              
+  line-height: 1.4rem;
+  color: var(--color-footer-text);
+  text-align: center;
+  margin-top: 1.5rem;
+  max-width: 900px;
+  font-family: var(--arch-ft);
+}
+
+/* Span wraps p + a inline */
+.footer-disclaimer span {
+  display: inline;                /* let p and a sit inline */
+  white-space: normal;
+}
+
+/* Make paragraph inline so <a> can follow it */
+.footer-disclaimer p {
+  display: inline;                
+  margin: 0;
+}
+
+/* Report link styling */
+.footer-disclaimer a {
+  color: var(--color-footer-hover);
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.footer-disclaimer a:hover {
+  text-decoration: underline;
+  color: var(--color-accent);
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+
+  /* Stack link sections vertically */
+  .footer-links.key-links, 
+  .footer-links.extra-links {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem 1rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Stack language selector full width */
+  .footer-languages {
+    width: 100%;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+
+  .custom-select-wrapper {
+    width: 100%;
+  }
+
+  .footer-disclaimer {
+    font-size: 0.75rem;
+    line-height: 1.3rem;
+    padding: 0 1rem;
+  }
+  
+  .footer-disclaimer span {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-disclaimer a {
+    margin-top: 0.2rem;
+  }
+}

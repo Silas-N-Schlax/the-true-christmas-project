@@ -1,0 +1,159 @@
+{
+  "title": "The True Christmas Project",
+  "nav": {
+    "about": "About",
+    "story": "Story",
+    "essay": "Essay",
+    "getI": "Get Involved"
+  },
+  "about": {
+    "howItBeganTitle": "How It Began",
+    "howItBegan1": "The True Christmas Project began with a simple idea: to bring the story of Christ’s birth back to the center of Christmas. In a season often filled with noise and distraction, we aim to share a clear, joyful reminder of the gospel—through something as small as a candy cane and as powerful as God’s Word.",
+    "howItBegan2": "Our project pairs a candy cane with a QR code that links to gospel-centered resources like essays, stories, and more. This small act creates opportunities for conversation, connection, and reflection on the true reason we celebrate Christmas.",
+    "howItBegan3": "We’re not a business or a brand—we’re a growing community of believers with one purpose: to make Christ known. Volunteers, individuals, and churches from all backgrounds come together to distribute candy canes, write essays, translate materials, and share the message of hope with their communities.",
+    "howItBegan4": "Everything we offer—downloads, guides, and designs—is free to use for personal, church, or outreach purposes. Whether you’re handing out candy canes at a local event, sharing them with your neighbors, or organizing a church outreach, you’re part of something bigger: a collective effort to glorify Christ through simple acts of love and faith.",
+    "howItBegan5": "We know every story looks different, but our prayer is the same—for hearts to be drawn to Jesus, and for the true message of Christmas to shine brightly in every home, every street, and every nation.",
+    "missionTitle": "Mission"
+  },
+  "mission": "The True Christmas Project exists to proclaim the true meaning of Christ’s birth in a world that often silences it. Through the simple yet powerful gift of a candy cane paired with a QR code linking to thoughtfully prepared resources, we share the gospel, provide encouragement for believers, and connect local churches across denominational lines. We equip volunteers, individuals, and communities to participate by distributing candy canes, contributing essays, translating materials, or partnering with their churches, all to spread hope, joy, and the Good News of Jesus. By offering accessible assets and guidance, we invite everyone to join in this unified effort, celebrating the true spirit of Christmas and pointing hearts to Christ. We invite all to join, knowing that participation is voluntary and outcomes may vary, yet our efforts are made to glorify Christ in every act.",
+  "noise_nativity": "The Noise And The Nativity",
+  "candy_cane": "The Story of the Candy Cane",
+  "voices_season": "Voices of the Season",
+  "get_involved": "Get Involved",
+  "about_us": "About Us",
+  "extra_1": "Extra Link 1",
+  "extra_2": "Extra Link 2",
+  "extra_3": "Extra Link 3",
+  "extra_4": "Extra Link 4",
+  "extra_5": "Extra Link 5",
+  "choose_lang": "Choose language:",
+  "copyright": "© 2025 Silas Schlax | The True Christmas Project",
+  "disclaimer": "The True Christmas Project is supported entirely by volunteers, including essay submissions and translations. While every effort is made to ensure the accuracy of translations, not all essays may be translated, and translations may contain errors or differences in interpretation due to the volunteer nature of this work. Please note that The True Christmas Project is not responsible for mistakes in translations, whether accidental or intentional. Volunteers contribute their time freely, and content is provided in good faith. If you notice any translation errors or inappropriate content, please help us improve by",
+  "disclaimerReport": "reporting it.",
+  "search_placeholder": "Search by name, time/day, or city/address...",
+  "no_results": "No churches match your search. Try a different term!",
+    "author": "Author(s):",
+  "editor": "Editor(s):",
+  "publish": "Published:",
+  "story": {
+    "title": "The Story of the Candy Cane"
+  },
+  "essay": {
+    "title": "The Noise And The Nativity"
+  },
+  "downloads": {
+    "b&w": "Black and White Tags Download",
+    "color": "Color Tags Download",
+    "instructions": "Instructions Download",
+    "qr": "QR Code Download (PNG)",
+    "disclaimer1": "You are welcome to use and share these downloadable resources freely for personal, church, or outreach use related to The True Christmas Project. You may copy, print, and distribute them as long as they are not sold or misrepresented as your own work.",
+    "disclaimer2": "All materials are provided “as is,” without any guarantees or warranties of any kind. The True Christmas Project and its contributors are not responsible for any damages, errors, or outcomes resulting from their use or distribution.",
+    "disclaimer3": "By using these resources, you agree to do so at your own discretion and in good faith for the purpose of sharing the message of Christmas."
+  },
+  "getInvolved": {
+    "voice_season": {
+    "title": "Voices of the Season – Essay Submissions",
+      "who": {
+        "title": "Who Can Submit?",
+        "text": "The True Christmas Project welcomes essays from <b>everyone</b>—students, pastors, parents, teachers, church leaders, and anyone who desires to glorify Christ through writing. Share your <b>reflection, testimony, story, or idea</b> about the birth of Jesus, the gospel of Christmas, or how His love impacts your life. Each essay will appear on our <b>Submissions</b> page in <b>alphabetical order by title</b>, allowing readers to grow in faith with every contribution."
+      },
+      "guidelines": {
+        "title": "Submission Guidelines",
+        "text": "<b>Title is required.</b><br><b>Authors and editors:</b> must provide full names.<br><b>Length:</b> 500–1500 words.<br><b>Format:</b> Plain text or Word document. You may include <b>headings or bold titles</b>, but all sizes and styles will be standardized for consistency.<br><b>Content:</b> Essays should reflect the <b>Christian faith</b>, the <b>true meaning of Christmas</b>, and honor Scripture. They must be appropriate, edifying, and encouraging for believers or instructive for nonbelievers.<br><b>Language:</b> English (translations handled separately).<br><b>Biblical references</b> are encouraged.<br><b>Quotations:</b> Use inline quotes; this site does not support footnotes."
+      },
+      "limits": {
+        "title": "Submission Limits and Deadlines",
+        "text": "<b>Maximum:</b> 20 essays for 2025.<br><b>Deadline:</b> December 15, 2025.<br><b>Publication:</b> Within 3–5 business days after review and approval."
+      },
+      "rights": {
+        "title": "Rights and Review",
+        "text": "The <b>Editor-in-Chief</b> reserves the right to reject essays for reasons including, but not limited to: <b>unbiblical content</b>, <b>irrelevant topics</b>, <b>excessive or insufficient length</b>, <b>poor or unreadable formatting</b>, or <b>duplicate/plagiarized work</b>. All essays will be reviewed and formatted to maintain <b>clarity, readability, and consistency</b> with the site’s Christian mission."
+      },
+      "link": {
+        "title": "Submission Link",
+        "text": "Submit your essay here: <a href='https://forms.gle/87TxnFKGu8HrRw9Y6' target='_blank'><b>Submission Form</b></a>"
+      }
+    },
+    "candy_cane_outreach": {
+      "title": "Candy Cane Outreach",
+      "mission": {
+        "title": "Our Mission",
+        "text": "DO NOT TRANSLATE [USE MAIN MISSION STATEMENT OBJ]"
+      },
+      "participate": {
+        "title": "How to Participate",
+        "text": "Join us in sharing the true message of Christmas through the simple gift of a candy cane. This project is an easy and meaningful way to share the gospel with friends, neighbors, and anyone you meet during the Christmas season."
+      },
+      "step1": {
+        "title": "Step 1 – Purchase Candy Canes",
+        "text": "Buy candy canes from any grocery store, dollar store, or online shop. Choose individually wrapped ones so they stay clean and are simple to hand out."
+      },
+      "step2": {
+        "title": "Step 2 – Download and Print Resources",
+        "text1": "<a href='/get_involved/downloads'><b>Download</b></a> the printable cards made for this outreach. Each one explains the meaning behind the candy cane and includes a QR code that links back to this site where people can read more about the true meaning of Christmas.",
+        "text2": "Print as many as you want, cut them out, and punch a small hole at the top and bottom so you can slide the candy cane through. <i>Instructions are in the PDF.</i>"
+      },
+      "step3": {
+        "title": "Step 3 – Assemble and Prepare",
+        "text": "Attach one card to each candy cane by sliding it through the holes. You can make these with your family, friends, or church group. Take time to pray over them and ask God to use these small gifts to open hearts to His truth."
+      },
+      "step4": {
+        "title": "Step 4 – Share the Message",
+        "text1": "Hand them out in your community at work, school, church events, or Christmas parades. You can also give them out while volunteering, running errands, or at restaurants. Leave one with a kind note or prayer card at a drive-thru or on a neighbor’s doorstep. Every small act of kindness can point someone to Christ.",
+        "text2": "If your workplace allows it, ask if you can leave a few out for customers to take. It is a simple way to share hope with anyone who walks in."
+      },
+      "group": {
+        "title": "Optional Group Outreach",
+        "text": "Invite your church, youth group, or Bible study to take part. Hosting a candy cane packing night or outreach walk is a fun and effective way to reach more people together."
+      },
+      "ready": {
+        "title": "Ready to Begin?",
+        "text1": "Start today by opening the printable cards below and making your first batch of candy canes. Remember, the goal is not just to give out candy but to share the hope of Christ this Christmas season.",
+        "text2": "<a href='/get_involved/downloads'><b>Open or Download Printouts</b></a>"
+      }
+    },
+    "translation_volunteers": {
+      "title": "Translation Volunteers",
+      "sections": {
+        "intro": {
+          "title": "Help Translate the Project",
+          "text": "This project reaches people from around the world, and we need volunteers who can help translate our content into other languages. It takes a bit of patience and care, but you do not need to be a programmer. You just need to understand how to read and edit simple text in a file format called JSON, and a few HTML tags. If you are not familiar with it, I can walk you through every step."
+        },
+        "how": {
+          "title": "How It Works",
+          "text": "All you have to do is fill out the short form below. I will contact you with the translation files, clear instructions, and examples. If someone is already working on your language, I will let you know so we can avoid duplicate work."
+        },
+        "link": {
+          "title": "Translation Form",
+          "text": "Fill out the interest form here: <a href='https://forms.gle/K1smBPDaQBnkDcuGA' target='_blank'><b>Volunteer Form</b></a>"
+        }
+      }
+    },
+    "church_partners": {
+      "title": "Church Partners",
+      "sections": {
+        "invite": {
+          "title": "Partner with Us This Christmas",
+          "text": "We invite churches to join us in sharing the message of Christ this Christmas season. By submitting your church’s information, visitors can find a local place to hear the gospel and celebrate together. There are no financial commitments, fees, or donations involved, only permission for us to display your information here."
+        },
+        "details": {
+          "title": "What to Include",
+          "text": "Please provide your church name, website, city and state, and the date and time of your Christmas service or outreach event. If you are not a pastor or church staff member, please ask for permission before submitting."
+        },
+        "purpose": {
+          "title": "Why We Do This",
+          "text": "This project is designed to cross denominational lines and unite believers around the gospel message. By connecting local churches, we can point more people to Christ through a simple yet meaningful candy cane."
+        },
+        "link": {
+          "title": "Submit Your Church",
+          "text": "Submit your information here: <a href='https://forms.gle/xMzrBXfH4mtcFp3r6' target='_blank'><b>Church Partner Form</b></a>"
+        }
+      }
+    }
+  },
+  "submissions": {
+    "The Noise And The Nativity": {
+      "title": "Testing 1"
+    }
+  }
+}

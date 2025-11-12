@@ -1,0 +1,55 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include "css.njk" %}
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/css/submissions-grid.css">
+  <title>{{page_title}} | The True Christmas Project</title>
+</head>
+<body>
+  {% include "header.njk" %}
+
+  {% include "banner.njk" %}
+
+  <div class="cont-container">
+
+    <div class="filler"></div>
+
+    <div class="submissions-container">
+      {% if submissions and submissions.length > 0 %}
+        {% for submission in submissions %}
+          <div class="submission-card">
+            <img class="submission-image"
+                src="{{ submission.image or '/assets/images/submissions_covers/sub_default.jpg' }}"
+                alt="{{ submission.page_title }}">
+            <div class="submission-info">
+              <h3 class="submission-title" title="{{ submission.page_title }}" data-i18n="submissions.{{ submission.page_title }}.title">
+                {{ submission.page_title }}
+              </h3>
+              <p class="submission-authors" title="{{ submission.authors | join(', ') }}">
+                by {{ submission.authors | join(', ') }}
+              </p>
+              <p class="submission-date">{{ submission.published }}</p>
+            </div>
+            <a href="{{ submission.permalink }}" class="submission-button">Read Here</a>
+          </div>
+        {% endfor %}
+      {% else %}
+        <p>No submissions found.</p>
+      {% endif %}
+    </div>
+
+
+    <div class="filler"></div>
+
+  </div>
+
+  {% include "footer.njk" %}
+  
+</body>
+</html>
+
+
+
+

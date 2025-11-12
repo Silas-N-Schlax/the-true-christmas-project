@@ -1,0 +1,34 @@
+{
+  "name": "the-true-christmas-project",
+  "version": "1.0.0",
+  "description": "A simple website for The True Christmas Project (TCP) to spread the True Christmas Story and the meaning behind the Candy Cane this Christmas seaons!",
+  "homepage": "https://github.com/Silas-N-Schlax/the-true-christmas-project#readme",
+  "bugs": {
+    "url": "https://github.com/Silas-N-Schlax/the-true-christmas-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silas-N-Schlax/the-true-christmas-project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": ".eleventy.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "netlify build"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "@mightyplow/eleventy-plugin-cache-buster": "^1.1.3",
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-container": "^4.0.0",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-mark": "^4.0.0",
+    "markdown-it-sub": "^2.0.0",
+    "markdown-it-sup": "^2.0.0"
+  }
+}

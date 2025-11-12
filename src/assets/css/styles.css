@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'Archivo-VF';
+  src: url('/assets/fonts/Archivo-VariableFont_wdth,wght.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Comorant-Gar-VF';
+  src: url('/assets/fonts/CormorantGaramond-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Tangerine-Bold';
+  src: url('/assets/fonts/Tangerine-Bold.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Tangerine-Normal';
+  src: url('/assets/fonts/Tangerine-Regular.ttf') format('truetype');
+  font-weight: normal;
+}
+
+:root {
+  --arch-ft: 'Archivo-VF', serif;
+  --cormant-ft: 'Comorant-Gar-VF', serif;
+  --tangerine-ft: 'Tangerine-Normal', 'Brush Script MT', 'Lucida Handwriting', cursive;
+  --tangerine-bold-ft: 'Tangerine-Bold', 'Brush Script MT', 'Lucida Handwriting', cursive;
+
+  --color-bg: #FAF9F6;  
+  --color-section-bg: #e7dfc8;        /* Snow Linen */
+  --color-text: #0B3D2E;              /* Evergreen */
+  --color-text-hover: #07251c;
+  --color-accent: #D4AF37;            /* Candle Gold */
+  --color-primary: #8B0000;           /* Deep Crimson */
+  --color-secondary: #2B3A67;         /* Bethlehem Sky */
+  --color-grey: #3E4E3E;
+  --color-footer-bg: #1B2C2B;         /* Dark Evergreen */
+  --color-footer-text: #E7DFC8;       /* Snow Linen text for footer */
+  --color-footer-hover: #D4AF37;      /* Candle Gold hover */
+  --color-dropdown-bg: #2B3A67;       /* Dropdown background */
+  --font-size: 18px;
+  --font-mobile: calc(var(--font-size) * 0.9);
+}
+
+
+
+body {
+  font-family: var(--cormant-ft);
+  color: var(--color-text);
+  font-size: var(--font-size);
+  background-color: var(--color-bg);
+  padding: 0;
+  margin: 0;
+}
+
+.cont-container {
+  max-width: 1200px;
+  width: 95%;
+  margin: auto;
+  background-color: var(--color-section-bg);
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 765px) {
+  .cont-container {
+    width: 100%;
+  }
+}
+
+.filler {
+  height: 20px;
+  background-color: var(--color-section-bg);
+}

@@ -1,0 +1,126 @@
+/* Header container */
+header {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 20px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--color-accent);
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+/* Logo */
+header img {
+  height: 50px;
+  width: auto;
+}
+
+/* Desktop links */
+header .links {
+  display: flex;
+  gap: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+header .links a {
+  text-decoration: none;
+  font-size: calc(var(--font-size) * 1.2);
+  font-family: var(--arch-ft);
+  color: var(--color-text);
+  padding-left: 12px;
+  transition: color 0.3s;
+}
+
+header .links a:hover {
+  color: var(--color-text-hover);
+}
+
+
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40px;  /* increased width */
+  height: 40px; /* increased height */
+  cursor: pointer;
+  position: relative;
+}
+
+.hamburger span {
+  position: absolute;       /* allow rotation without clipping */
+  width: 30px;
+  height: 3px;
+  background-color: var(--color-text);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.hamburger span:nth-child(1) {
+  top: 10px;
+}
+
+.hamburger span:nth-child(2) {
+  top: 18.5px; /* center */
+}
+
+.hamburger span:nth-child(3) {
+  top: 27px;
+}
+
+/* Open state - X */
+.hamburger.open span:nth-child(1) {
+  transform: rotate(45deg);
+  top: 18.5px; /* move to center */
+}
+
+.hamburger.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburger.open span:nth-child(3) {
+  transform: rotate(-45deg);
+  top: 18.5px; /* move to center */
+}
+
+/* Mobile styles */
+@media (max-width: 765px) {
+
+  /* Hide desktop links initially */
+  header .links {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%; /* full width */
+    background-color: var(--color-accent);
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1rem 0;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    z-index: 998;
+  }
+
+  /* Show links when active */
+  header .links.active {
+    display: flex;
+  }
+
+  header .links a {
+    font-size: calc(var(--font-size) * 1);
+    padding: 0rem 0;
+    text-align: center;
+  }
+
+  /* Hamburger shows on mobile */
+  .hamburger {
+    display: flex;
+  }
+}
+

@@ -42,12 +42,5 @@ permalink: "/about/index.html"
 
 <h3 data-i18n="about.missionTitle">Mission</h3>
 <p class="pg-st" data-i18n="mission">
-  The True Christmas Project exists to proclaim the true meaning of Christ’s birth in a world that often silences it. 
-  Through the simple yet powerful gift of a candy cane paired with a QR code linking to thoughtfully prepared resources, 
-  we share the gospel, provide encouragement for believers, and connect local churches across denominational lines. 
-  We equip volunteers, individuals, and communities to participate by distributing candy canes, contributing essays, 
-  translating materials, or partnering with their churches, all to spread hope, joy, and the Good News of Jesus. 
-  By offering accessible assets and guidance, we invite everyone to join in this unified effort, celebrating the true spirit of 
-  Christmas and pointing hearts to Christ. We invite all to join, knowing that participation is voluntary and outcomes may vary, 
-  yet our efforts are made to glorify Christ in every act.
+  The True Christmas Project exists to refocus hearts on the true meaning of Christmas: the birth of Christ, the promised Savior and Light who entered our dark world. In a culture that buries the gospel beneath noise, commercialism, and distraction, we aim to lift eyes back to the manger—back to Jesus, God with us. Through the simple gift of a candy cane paired with a QR code linking to biblically faithful resources, we proclaim the Good News, encourage believers, and connect individuals to local, Bible-believing, Bible-teaching churches. We equip volunteers and communities to take part through distribution, translation, writing, and church partnership, all so that Christ may be exalted and His gospel made known. Every act is done freely, joyfully, and for the glory of God alone, pointing all people to the hope found only in Jesus.
 </p>

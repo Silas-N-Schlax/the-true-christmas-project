@@ -38,6 +38,8 @@
   display: flex;
   flex-direction: row;
 }
+
+
 .church .image img {
   width: 85px;
   height: 85px;
@@ -49,6 +51,10 @@
 @media (max-width: 768px) {
   .churches-container {
     grid-template-columns: 1fr;
+  }
+  .church .image img {
+    margin-top: 50%;
+    margin-bottom: 50%;
   }
 }
 
@@ -103,6 +109,7 @@
 .church p.notes {
   font-size: calc(var(--font-size) * 0.7);
   margin: 0;
+  overflow: visible;
 }
 
 /* No results message */

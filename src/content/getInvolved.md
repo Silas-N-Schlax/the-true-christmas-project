@@ -17,7 +17,7 @@ permalink: "/get_involved/index.html"
 
         <h3 data-i18n="getInvolved.candy_cane_outreach.mission.title">Our Mission</h3>
         <p class="pg-st" data-i18n="mission">
-          The True Christmas Project exists to proclaim the true meaning of Christ’s birth in a world that often silences it. Through the simple yet powerful gift of a candy cane paired with a QR code linking to thoughtfully prepared resources, we share the gospel, provide encouragement for believers, and connect local churches across denominational lines. We equip volunteers, individuals, and communities to participate by distributing candy canes, contributing essays, translating materials, or partnering with their churches, all to spread hope, joy, and the Good News of Jesus. By offering accessible assets and guidance, we invite everyone to join in this unified effort, celebrating the true spirit of Christmas and pointing hearts to Christ. We invite all to join, knowing that participation is voluntary and outcomes may vary, yet our efforts are made to glorify Christ in every act.
+          The True Christmas Project exists to refocus hearts on the true meaning of Christmas: the birth of Christ, the promised Savior and Light who entered our dark world. In a culture that buries the gospel beneath noise, commercialism, and distraction, we aim to lift eyes back to the manger—back to Jesus, God with us. Through the simple gift of a candy cane paired with a QR code linking to biblically faithful resources, we proclaim the Good News, encourage believers, and connect individuals to local, Bible-believing, Bible-teaching churches. We equip volunteers and communities to take part through distribution, translation, writing, and church partnership, all so that Christ may be exalted and His gospel made known. Every act is done freely, joyfully, and for the glory of God alone, pointing all people to the hope found only in Jesus.
         </p>
 
         <h3 data-i18n="getInvolved.candy_cane_outreach.participate.title">How to Participate</h3>
@@ -28,8 +28,7 @@ permalink: "/get_involved/index.html"
 
         <h3 data-i18n="getInvolved.candy_cane_outreach.step1.title">Step 1 – Purchase Candy Canes</h3>
         <p class="pg-st" data-i18n="getInvolved.candy_cane_outreach.step1.text">
-          Buy candy canes from any grocery store, dollar store, or online shop.
-          Choose individually wrapped ones so they stay clean and are simple to hand out.
+          Buy candy canes from any grocery store, dollar store, or online retailer. Choose individually wrapped ones so they stay clean and easy to hand out. We’ve found that Brach’s candy canes at Walmart are typically the most cost-effective option.
         </p>
 
         <h3 data-i18n="getInvolved.candy_cane_outreach.step2.title">Step 2 – Download and Print Resources</h3>
@@ -140,14 +139,14 @@ permalink: "/get_involved/index.html"
           This project reaches people from around the world, and we need volunteers who can help translate our content into other languages.
           It takes a bit of patience and care, but you do not need to be a programmer. 
           You just need to understand how to read and edit simple text in a file format called JSON, and a few HTML tags.
-          If you are not familiar with it, I can walk you through every step.
+          If you are not familiar with it, we can walk you through every step.
         </p>
 
         <h3 data-i18n="getInvolved.translation_volunteers.sections.how.title">How It Works</h3>
         <p class="pg-st" data-i18n="getInvolved.translation_volunteers.sections.how.text">
           All you have to do is fill out the short form below.
-          I will contact you with the translation files, clear instructions, and examples.
-          If someone is already working on your language, I will let you know so we can avoid duplicate work.
+          we will contact you with the translation files, clear instructions, and examples.
+          If someone is already working on your language, we will let you know so we can avoid duplicate work.
         </p>
 
         <h3 data-i18n="getInvolved.translation_volunteers.sections.link.title">Translation Form</h3>
@@ -168,9 +167,7 @@ permalink: "/get_involved/index.html"
 
         <h3 data-i18n="getInvolved.church_partners.sections.invite.title">Partner with Us This Christmas</h3>
         <p class="pg-st" data-i18n="getInvolved.church_partners.sections.invite.text">
-          We invite churches to join us in sharing the message of Christ this Christmas season.
-          By submitting your church’s information, visitors can find a local place to hear the gospel and celebrate together.
-          There are no financial commitments, fees, or donations involved, only permission for us to display your information here.
+          We invite churches to join us in sharing the message of Christ this Christmas season. By submitting your church’s information, visitors can find a local place to hear the gospel and celebrate together. We specifically seek churches that are Bible-believing and faithfully teach God’s Word, so that all who visit can hear Scripture clearly and accurately. There are no financial commitments, fees, or donations involved—just permission for us to display your information here.
         </p>
 
         <h3 data-i18n="getInvolved.church_partners.sections.details.title">What to Include</h3>

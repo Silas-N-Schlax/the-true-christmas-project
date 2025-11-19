@@ -41,7 +41,7 @@
   --color-footer-hover: #D4AF37;      /* Candle Gold hover */
   --color-dropdown-bg: #2B3A67;       /* Dropdown background */
   --font-size: 18px;
-  --font-mobile: calc(var(--font-size) * 0.9);
+  --font-mobile: calc(var(--font-size) * 1.1);
 }
 
 

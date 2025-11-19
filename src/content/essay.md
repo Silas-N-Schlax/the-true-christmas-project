@@ -38,7 +38,7 @@ published: "November 19, 2025"
 <p class="pg-st" data-i18n="essay.joy5">Joy to the Earth, the Savior reigns;</p><br>
 <p class="pg-st" data-i18n="essay.joy6">Our mortal songs employ,</p><br>
 <p class="pg-st" data-i18n="essay.joy7">While fields and floods, rocks, hills and plains,</p><br>
-<p class="pg-st" data-i18n="essay.joy8">Repeat the sounding joy.</p><br>
+<p class="pg-st" data-i18n="essay.joy8">Repeat the sounding joy.</p><br><br>
 
 <p class="pg-st" data-i18n="essay.par11">This is Christmas: Christ has come, and that truth changes everything.</p><br>
 

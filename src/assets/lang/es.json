@@ -1,3 +1,186 @@
 {
-
+  "translationBy": ["ChatGPT"],
+  "translationEditedBy": [""],
+  "translationMostRecentUpdate": "11/19/2025",
+  "title": "El Verdadero Proyecto de Navidad",
+  "nav": {
+    "about": "Acerca de",
+    "story": "Historia",
+    "essay": "Ensayo",
+    "getI": "Involúcrate"
+  },
+  "about": {
+    "howItBeganTitle": "Cómo Comenzó",
+    "howItBegan1": "El Verdadero Proyecto de Navidad comenzó con una idea simple: llevar la historia del nacimiento de Cristo de nuevo al centro de la Navidad. En una temporada a menudo llena de ruido y distracciones, nuestro objetivo es compartir un recordatorio claro y alegre del evangelio—mediante algo tan pequeño como un bastón de caramelo y tan poderoso como la Palabra de Dios.",
+    "howItBegan2": "Nuestro proyecto combina un bastón de caramelo con un código QR que enlaza a recursos centrados en el evangelio, como ensayos, historias y más. Este pequeño acto crea oportunidades para la conversación, la conexión y la reflexión sobre la verdadera razón por la que celebramos la Navidad.",
+    "howItBegan3": "No somos un negocio ni una marca—somos una comunidad en crecimiento de creyentes con un propósito: dar a conocer a Cristo. Voluntarios, individuos e iglesias de todos los trasfondos se unen para distribuir bastones de caramelo, escribir ensayos, traducir materiales y compartir el mensaje de esperanza con sus comunidades.",
+    "howItBegan4": "Todo lo que ofrecemos—descargas, guías y diseños—es de uso gratuito para fines personales, de iglesia o de alcance comunitario. Ya sea que estés repartiendo bastones de caramelo en un evento local, compartiéndolos con tus vecinos o organizando un alcance de iglesia, formas parte de algo más grande: un esfuerzo colectivo para glorificar a Cristo mediante simples actos de amor y fe.",
+    "howItBegan5": "Sabemos que cada historia se ve diferente, pero nuestra oración es la misma—que los corazones sean atraídos hacia Jesús y que el verdadero mensaje de la Navidad brille intensamente en cada hogar, cada calle y cada nación.",
+    "missionTitle": "Misión",
+    "whyTitle": "¿Por qué 'El Verdadero Proyecto de Navidad'?",
+    "whyDesc1": "El nombre “El Verdadero Proyecto de Navidad” no pretende sugerir que sea el único esfuerzo navideño válido o real. Más bien, se trata de señalar de nuevo la verdadera historia de la Navidad—el nacimiento de Jesucristo—en un mundo que a menudo entierra esa verdad bajo el comercialismo y el ruido.",
+    "whyDesc2": "Nuestro objetivo es simple: ayudar a las personas a recordar el verdadero significado de la Navidad y redescubrir el mensaje de esperanza, amor y redención que comenzó en un pesebre. Este proyecto existe no para competir con otros, sino para unirse a la misión más amplia de creyentes en todo el mundo que desean dar a conocer a Cristo durante la temporada navideña."
+  },
+  "mission": "El Verdadero Proyecto de Navidad existe para reenfocar los corazones en el verdadero significado de la Navidad: el nacimiento de Cristo, el Salvador prometido y la Luz que entró en nuestro mundo oscuro. En una cultura que entierra el evangelio bajo ruido, comercialismo y distracciones, nuestro objetivo es levantar la vista hacia el pesebre—de nuevo hacia Jesús, Dios con nosotros. A través del simple regalo de un bastón de caramelo acompañado de un código QR que enlaza a recursos bíblicamente fieles, proclamamos las Buenas Nuevas, animamos a los creyentes y conectamos a las personas con iglesias locales que creen y enseñan la Biblia. Equipamos a voluntarios y comunidades para participar mediante distribución, traducción, redacción y colaboración con iglesias, todo para que Cristo sea exaltado y Su evangelio sea dado a conocer. Cada acto se realiza libre, alegre y únicamente para la gloria de Dios, señalando a todos hacia la esperanza que solo se encuentra en Jesús.",
+  "noise_nativity": "El Ruido y la Natividad",
+  "candy_cane": "La Historia del Bastón de Caramelo",
+  "voices_season": "Voces de la Temporada",
+  "get_involved": "Involúcrate",
+  "about_us": "Acerca de Nosotros",
+  "extra_1": "Envío de Preguntas",
+  "extra_2": "Enlace Extra 2",
+  "extra_3": "Enlace Extra 3",
+  "extra_4": "Enlace Extra 4",
+  "extra_5": "Enlace Extra 5",
+  "choose_lang": "Elegir idioma:",
+  "copyright": "© 2025 Silas Schlax | El Verdadero Proyecto de Navidad",
+  "disclaimer": "El Verdadero Proyecto de Navidad es apoyado enteramente por voluntarios, incluyendo el envío de ensayos y traducciones. Aunque se hace todo lo posible para asegurar la exactitud de las traducciones, no todos los ensayos pueden ser traducidos, y las traducciones pueden contener errores o diferencias de interpretación debido a la naturaleza voluntaria de este trabajo. Por favor, tenga en cuenta que El Verdadero Proyecto de Navidad no se hace responsable de errores en las traducciones, ya sean accidentales o intencionales. Los voluntarios contribuyen con su tiempo de manera gratuita, y el contenido se proporciona de buena fe. Si notas algún error de traducción o contenido inapropiado, por favor ayúdanos a mejorar",
+  "disclaimerReport": "reportándolo.",
+  "search_placeholder": "Buscar por nombre, hora/día o ciudad/dirección...",
+  "no_results": "Ninguna iglesia coincide con tu búsqueda. ¡Intenta con otro término!",
+  "author": "Autor(es):",
+  "editor": "Editor(es):",
+  "publish": "Publicado:",
+  "story": {
+    "title": "La Historia del Bastón de Caramelo"
+  },
+  "essay": {
+    "title": "El Ruido y la Natividad",
+    "par1": "La Navidad, incluso a través del caos de diciembre y toda la preparación, es algo que todos esperamos cada año. Desde pasar tiempo con la familia y comer buena comida hasta dar regalos, la Navidad es una ocasión festiva y alegre. Pero ¿por qué? ¿Por qué un solo día de los trescientos sesenta y cinco es tan especial, tan… diferente? ¿Es porque es tan fuera de lo común? ¿O hay otra razón detrás de todo? La cultura dice que la Navidad se trata de lo tangible—los regalos, la comida, las tradiciones; la Biblia dice que se trata de Cristo. ¿Cuál es realmente, y cómo deberíamos verlo hoy?",
+    "par2": "La cultura moderna retrata la Navidad como alegre, orientada a la familia, con tradiciones como el intercambio de regalos, las decoraciones y alimentos especiales. Tal vez te estés preguntando: “¿Qué hay de malo en todo eso?” No hay nada inherentemente malo en ello. En cambio, es una cuestión del corazón. ¿Por qué pasamos tiempo con la familia? ¿Por qué damos y recibimos regalos? ¿Por qué decoramos? ¿Es porque eso es lo que hacemos en Navidad? Nos reunimos con la familia, comemos buena comida y recibimos regalos. Pero aquí es donde brilla el comercialismo. Las corporaciones y empresas quieren que tengamos esta mentalidad porque les genera más dinero. Por eso ves tantos anuncios, medios, películas y mucho más enfocados en este tema de lo tangible. Para ellos, todo se trata de dinero, de lo que traerá más ingresos, y no les importa lo que pase con la persona común. Se enfocan en cuántos juguetes, cuántos rollos de papel de regalo y sí, incluso cuántos rollos de canela pueden vender. Lamentablemente, esta mentalidad se ha filtrado en la persona común, formando la idea de: “¿Cuánto puedo obtener?” Esta mentalidad solo trae decepción, tristeza y enojo cuando, al final, no obtienes todo lo que querías y soñabas. Si esto es realmente de lo que se trata la Navidad, ¿cómo pueden aquellos que no tienen familia, que no tienen dinero para comida y regalos, seguir teniendo una Navidad alegre? Si estableces eso como tu estándar de alegría para la festividad, no puedes ser feliz ni alegre. Solo estarás triste y celoso por lo que no tienes.",
+    "par3": "Si la Navidad no se trata de la familia, las festividades y los regalos, ¿de qué se trata? En pocas palabras, la Navidad se trata de Cristo, su nacimiento y las Buenas Nuevas; “Y el ángel les dijo: 'No teman, porque he aquí os traigo buenas noticias de gran gozo que será para todo el pueblo'” (Lucas 2:10, RVR1960). La Navidad en su raíz no tiene nada que ver con regalos, comida o familia, sino que tiene todo que ver con lo que Dios hizo por nosotros al enviar a su Hijo que un día moriría en la Cruz.",
+    "par4": "Dicho esto, estos otros aspectos de la Navidad tienen profundas raíces en el cristianismo y la Biblia. Tomemos, por ejemplo, la familia; esa noche en Belén, familiares y extraños se reunieron en los establos para adorar a Jesús. Otro ejemplo es el de los regalos; los Reyes Magos le dieron regalos a Jesús, viajando lejos para encontrar al Rey recién nacido. Además, Dios nos dio el mayor regalo de todos: Su Hijo, Cristo. No deberíamos centrarnos en lo que podemos recibir, sino en lo que podemos dar. ¿Con qué puedes bendecir a otra persona? Tal vez sea un objeto tangible, tal vez sea amor y cuidado, o tal vez sea simplemente pasar tiempo con ellos. O tal vez, solo tal vez, sea compartir el Evangelio con ellos, contándoles sobre Cristo y cómo nació en Navidad para morir por sus pecados en la Cruz.",
+    "par5": "En el centro de la Navidad—en su corazón—no se trata de regalos o comida, ni siquiera de realeza o riqueza. Se trata de que Dios cumple su promesa; la promesa de un Mesías que traería esperanza, sanidad, paz y redención. Esa noche en el pequeño pueblo de Belén, tal como las Escrituras lo profetizaron, Dios entró al mundo como un bebé—no como un rey, no como un soldado, no como muchos esperaban. Cristo vino como un niño indefenso y perfecto, no nacido en lujo o riqueza, sino colocado en un pesebre—un comedero, envuelto en pañales, rodeado de animales, familiares y pastores. La Navidad no es la celebración de cosas materiales, sino la celebración de que Dios se acercó. No como un gobernante distante, sino como Emmanuel: “Dios con nosotros.”",
+    "par6": "La Navidad también nos recuerda que la luz brilla más intensamente en la oscuridad más profunda, y la oscuridad no puede vencerla. ¿Recuerdas la estrella sobre Belén? Esa luz atravesó la noche, guiando a todos los que buscaban la verdad. La luz siempre derrota a la oscuridad; la verdad siempre supera a la mentira. La Navidad nos recuerda que nadie está demasiado perdido, demasiado extraviado o demasiado roto para Dios. En tu hora más oscura, Dios sigue contigo, y si lo conoces, Él iluminará tu camino.",
+    "par7": "La Navidad es un recordatorio de que el verdadero amor tomó carne y habitó entre nosotros. Es un recordatorio anual de que Dios cumple Sus promesas, solo debemos recordar que Su tiempo no es el nuestro. Tal vez la dificultad que enfrentas es Dios formándote, no destruyéndote. Tal vez el dolor que sientes es Dios mostrándote algo, no desanimándote. Tal vez el anhelo que sientes es Dios agitando tu corazón, no dejándote vacío. Pero escucha esto: si no eres cristiano, tal vez—solo tal vez—Dios te está llamando a Él.",
+    "par8": "Pero si todo esto es cierto, si la Navidad realmente se trata de Cristo, de Emmanuel, de la luz rompiendo la oscuridad. Entonces, ¿por qué es tan difícil verlo? ¿Por qué es tan difícil mantener nuestro corazón fijado en el pesebre en lugar de todo lo demás a nuestro alrededor? Hoy hay tanto ruido, tantas voces tratando de alejarnos de la Verdad, del pesebre. Desde anuncios de televisión vendiendo el “regalo perfecto”, hasta exhibiciones brillantes en tiendas, ofertas del Black Friday, hasta las interminables decoraciones en cada pasillo, cada una te empuja hacia su producto, no hacia el regalo de Dios. Han cementado en la mente de muchos que la Navidad es este evento brillante y superficial retratado en medios y películas. ¿Pero lo es?",
+    "par9": "Todo este ruido no es malo en sí mismo. El peligro surge cuando permitimos que el ruido nos abrume. Permitimos que nuble nuestra visión y ahogue la verdadera razón por la que celebramos. Cuando eso sucede, nos privamos a nosotros mismos y a los que nos rodean de la esperanza que Cristo trae. La Navidad resumida por el Rev. Billy Graham es, “una cuna, una cruz y una corona” (“<i><a href='https://billygraham.org/answers/what-is-the-deeper-meaning-of-christmas'>Cuál es el significado más profundo de la Navidad,</a></i>” Rev. Billy Graham). ¿Y el problema? El problema es permitir que el ruido hable tan fuerte que eclipsa la estrella sobre Belén y la multitud de ángeles cantando: “Gloria a Dios en las alturas, y en la tierra paz, buena voluntad para con los hombres” (Lucas 2:14, RVR1960).",
+    "par10": "¿Sabes cuál es la solución al ruido? La natividad—Cristo—fue la solución, es la solución y siempre será la solución. Como dice en Juan, Dios envió a su Hijo unigénito para nacer como hombre y morir en la Cruz por nuestros pecados: “Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna” (Juan 3:16, RVR1960). Esto es lo que debemos recordar cada Navidad, no para lamentar su muerte en la Cruz, sino para regocijarnos en su nacimiento, su venida a este mundo. Regocíjate, porque el Rey ha venido, nacido en un pesebre para todo el mundo. O como canta el himno de Isaac Watts, Joy to the World:",
+    "joy1": "¡Gozo al mundo; el Señor ha venido;",
+    "joy2": "Que la Tierra reciba a su Rey;",
+    "joy3": "Que cada corazón le prepare un lugar,",
+    "joy4": "Y el cielo y la naturaleza canten.",
+    "joy5": "¡Gozo a la Tierra, el Salvador reina;",
+    "joy6": "Que nuestras canciones mortales empleen,",
+    "joy7": "Mientras campos y ríos, rocas, colinas y llanuras,",
+    "joy8": "Repiten el gozo resonante.",
+    "par11": "Esto es Navidad: Cristo ha venido, y esa verdad lo cambia todo.",
+    "par12": "Al entrar en esta temporada navideña, no perdamos de vista lo que más importa. La Navidad no se basa en regalos o reuniones, ni en tradiciones o decoraciones, sino en la verdad inquebrantable de que Dios se acercó. Nació un Salvador, la esperanza entró en el mundo, y una luz inimaginable rompió la oscuridad. Nuestro mundo seguirá gritando sus mensajes, pero no tenemos que escuchar. En cambio, volvemos nuestra mirada hacia el pesebre, hacia el Niño que cambió la historia. Así que esta Navidad, hazle espacio. Desacelera. Mira más allá del ruido del mundo. Elige dar en lugar de tomar. Comparte a Cristo con alguien que necesite esperanza. Ama a alguien que se sienta invisible. Deja que tu vida—nuestras vidas—refleje la alegría del Que vino por ti. Porque si Cristo está verdaderamente en el centro de la Navidad, entonces todo—tu corazón, tu hogar, tu alegría—brillará con la luz del Rey que vino a salvar.",
+    "par13": "Si no eres cristiano, te animamos a leer la historia de Navidad en <a href='https://www.esv.org/Luke+2'>Lucas 2</a>, encontrar una iglesia que crea y enseñe la Biblia cerca de ti y asistir a un servicio. Oramos para que llegues a conocer a Jesucristo como tu Señor y Salvador. Si estás buscando un lugar para celebrar la Navidad este año, puedes encontrar servicios locales en RDU listados en nuestra página de inicio."
+  },
+  "downloads": {
+    "b&w": "Descarga de Etiquetas en Blanco y Negro",
+    "color": "Descarga de Etiquetas a Color",
+    "instructions": "Descarga de Instrucciones",
+    "qr": "Descarga de Código QR (PNG)",
+    "disclaimer1": "Puedes usar y compartir estos recursos descargables libremente para uso personal, de iglesia o de alcance relacionado con El Verdadero Proyecto de Navidad. Puedes copiarlos, imprimirlos y distribuirlos siempre que no se vendan ni se presenten como tu propio trabajo.",
+    "disclaimer2": "Todos los materiales se proporcionan “tal cual”, sin garantías de ningún tipo. El Verdadero Proyecto de Navidad y sus colaboradores no son responsables de daños, errores o resultados derivados de su uso o distribución.",
+    "disclaimer3": "Al usar estos recursos, aceptas hacerlo bajo tu propio criterio y de buena fe con el propósito de compartir el mensaje de la Navidad."
+  },
+  "getInvolved": {
+    "voice_season": {
+      "title": "Voces de la Temporada – Envío de Ensayos",
+      "who": {
+        "title": "¿Quién Puede Enviar?",
+        "text": "El Verdadero Proyecto de Navidad da la bienvenida a ensayos de <b>todos</b>: estudiantes, pastores, padres, maestros, líderes de iglesia y cualquier persona que desee glorificar a Cristo a través de la escritura. Comparte tu <b>reflexión, testimonio, historia o idea</b> sobre el nacimiento de Jesús, el evangelio de la Navidad o cómo Su amor impacta tu vida. Cada ensayo aparecerá en nuestra página de <b>Envíos</b> en <b>orden alfabético por título</b>, permitiendo que los lectores crezcan en fe con cada contribución."
+      },
+      "guidelines": {
+        "title": "Guías para el Envío",
+        "text": "Los ensayos no son los únicos tipos de envío permitidos; se aceptan poemas, historias creativas y más, siempre que mantengan el tema y dirijan a los lectores a Cristo y al verdadero significado de la Navidad.<br><br><b>Se requiere título.</b><br><b>Autores y editores:</b> deben proporcionar nombres completos.<br><b>Longitud:</b> 500–1500 palabras.<br><b>Formato:</b> Texto simple o documento Word. Puedes incluir <b>encabezados o títulos en negrita</b>, pero todos los tamaños y estilos se estandarizarán para mantener consistencia.<br><b>Contenido:</b> Los ensayos deben reflejar la <b>fe cristiana</b>, el <b>verdadero significado de la Navidad</b> y honrar la Escritura. Deben ser apropiados, edificantes y alentadores para creyentes o instructivos para no creyentes.<br><b>Idioma:</b> Inglés (las traducciones se manejan por separado).<br><b>Referencias bíblicas</b> son recomendadas.<br><b>Citas:</b> Usa citas en línea; este sitio no soporta notas al pie."
+      },
+      "limits": {
+        "title": "Límites y Fechas de Envío",
+        "text": "<b>Máximo:</b> 20 ensayos para 2025.<br><b>Fecha límite:</b> 15 de diciembre de 2025.<br><b>Publicación:</b> Dentro de 3–5 días hábiles después de la revisión y aprobación."
+      },
+      "rights": {
+        "title": "Derechos y Revisión",
+        "text": "El <b>Editor en Jefe</b> se reserva el derecho de rechazar ensayos por razones que incluyen, pero no se limitan a: <b>contenido no bíblico</b>, <b>temas irrelevantes</b>, <b>longitud excesiva o insuficiente</b>, <b>formato pobre o ilegible</b>, o <b>trabajo duplicado/plagiado</b>. Todos los ensayos serán revisados y formateados para mantener <b>claridad, legibilidad y consistencia</b> con la misión cristiana del sitio."
+      },
+      "link": {
+        "title": "Enlace para Envío",
+        "text": "Envía tu ensayo aquí: <a href='https://forms.gle/87TxnFKGu8HrRw9Y6' target='_blank'><b>Formulario de Envío</b></a>"
+      }
+    },
+    "candy_cane_outreach": {
+      "title": "Alcance con Bastones de Caramelo",
+      "mission": {
+        "title": "Nuestra Misión"
+      },
+      "participate": {
+        "title": "Cómo Participar",
+        "text": "Únete a nosotros para compartir el verdadero mensaje de la Navidad a través del sencillo regalo de un bastón de caramelo. Este proyecto es una forma fácil y significativa de compartir el evangelio con amigos, vecinos y cualquier persona que conozcas durante la temporada navideña."
+      },
+      "step1": {
+        "title": "Paso 1 – Compra Bastones de Caramelo",
+        "text": "Compra bastones de caramelo en cualquier supermercado, tienda de dólar o minorista en línea. Elige los envueltos individualmente para que se mantengan limpios y fáciles de repartir. Hemos encontrado que los bastones de caramelo Brach’s en Walmart suelen ser la opción más rentable."
+      },
+      "step2": {
+        "title": "Paso 2 – Descarga e Imprime los Recursos",
+        "text1": "<a href='/get_involved/downloads'><b>Descarga</b></a> las tarjetas imprimibles hechas para este alcance. Cada una explica el significado del bastón de caramelo e incluye un código QR que enlaza a este sitio donde las personas pueden leer más sobre el verdadero significado de la Navidad.",
+        "text2": "Imprime tantas como quieras, córtalas y haz un pequeño agujero en la parte superior e inferior para poder deslizar el bastón de caramelo. <i>Las instrucciones están en el PDF.</i>"
+      },
+      "step3": {
+        "title": "Paso 3 – Ensambla y Prepara",
+        "text": "Adjunta una tarjeta a cada bastón de caramelo deslizándola por los agujeros. Puedes hacer esto con tu familia, amigos o grupo de iglesia. Tómate tiempo para orar sobre ellos y pide a Dios que use estos pequeños regalos para abrir corazones a Su verdad."
+      },
+      "step4": {
+        "title": "Paso 4 – Comparte el Mensaje",
+        "text1": "Distribúyelos en tu comunidad: en el trabajo, la escuela, eventos de iglesia o desfiles navideños. También puedes darlos mientras haces voluntariado, compras o en restaurantes. Deja uno con una nota amable o tarjeta de oración en un drive-thru o en la puerta de un vecino. Cada pequeño acto de bondad puede señalar a alguien hacia Cristo.",
+        "text2": "Si tu lugar de trabajo lo permite, pregunta si puedes dejar algunos para que los clientes los tomen. Es una forma sencilla de compartir esperanza con cualquiera que entre."
+      },
+      "group": {
+        "title": "Alcance Grupal Opcional",
+        "text": "Invita a tu iglesia, grupo juvenil o estudio bíblico a participar. Organizar una noche de empaquetado de bastones de caramelo o una caminata de alcance es una forma divertida y efectiva de llegar a más personas juntos."
+      },
+      "ready": {
+        "title": "¿Listo para Comenzar?",
+        "text1": "Comienza hoy abriendo las tarjetas imprimibles a continuación y preparando tu primer lote de bastones de caramelo. Recuerda, el objetivo no es solo repartir dulces, sino compartir la esperanza de Cristo esta temporada navideña.",
+        "text2": "<a href='/get_involved/downloads'><b>Abrir o Descargar Imprimibles</b></a>"
+      }
+    },
+    "translation_volunteers": {
+      "title": "Voluntarios de Traducción",
+      "sections": {
+        "intro": {
+          "title": "Ayuda a Traducir el Proyecto",
+          "text": "Este proyecto alcanza personas de todo el mundo, y necesitamos voluntarios que puedan ayudar a traducir nuestro contenido a otros idiomas. Requiere un poco de paciencia y cuidado, pero no necesitas ser programador. Solo necesitas entender cómo leer y editar texto simple en un formato de archivo llamado JSON y algunas etiquetas HTML. Si no estás familiarizado, podemos guiarte en cada paso."
+        },
+        "how": {
+          "title": "Cómo Funciona",
+          "text": "Todo lo que debes hacer es completar el formulario corto a continuación. Nos pondremos en contacto contigo con los archivos de traducción, instrucciones claras y ejemplos. Si alguien ya está trabajando en tu idioma, te lo haremos saber para evitar trabajo duplicado."
+        },
+        "link": {
+          "title": "Formulario de Traducción",
+          "text": "Completa el formulario de interés aquí: <a href='https://forms.gle/K1smBPDaQBnkDcuGA' target='_blank'><b>Formulario de Voluntariado</b></a>"
+        }
+      }
+    },
+    "church_partners": {
+      "title": "Iglesias Socias",
+      "sections": {
+        "invite": {
+          "title": "Asóciate con Nosotros Esta Navidad",
+          "text": "Invitamos a las iglesias a unirse a nosotros para compartir el mensaje de Cristo esta temporada navideña. Al enviar la información de tu iglesia, los visitantes pueden encontrar un lugar local para escuchar el evangelio y celebrar juntos. Buscamos específicamente iglesias que crean en la Biblia y enseñen fielmente la Palabra de Dios, para que todos los que visiten puedan escuchar las Escrituras de manera clara y precisa. No hay compromisos financieros, tarifas ni donaciones involucradas; solo se requiere permiso para mostrar tu información aquí."
+        },
+        "details": {
+          "title": "Qué Incluir",
+          "text": "Por favor proporciona el nombre de tu iglesia, sitio web, ciudad y estado, y la fecha y hora de tu servicio navideño o evento de alcance. Si no eres pastor ni miembro del personal de la iglesia, solicita permiso antes de enviar."
+        },
+        "purpose": {
+          "title": "Por Qué Hacemos Esto",
+          "text": "Este proyecto está diseñado para cruzar líneas denominacionales y unir a los creyentes alrededor del mensaje del evangelio. Al conectar iglesias locales, podemos señalar a más personas hacia Cristo a través de un simple y significativo bastón de caramelo."
+        },
+        "link": {
+          "title": "Envía Tu Iglesia",
+          "text": "Envía tu información aquí: <a href='https://forms.gle/xMzrBXfH4mtcFp3r6' target='_blank'><b>Formulario de Iglesia Socia</b></a>"
+        }
+      }
+    }
+  },
+  "submissions": {
+    "button": "Leer aquí",
+    "Example Essay": {
+      "title": "Prueba 1"
+    }
+  }
 }

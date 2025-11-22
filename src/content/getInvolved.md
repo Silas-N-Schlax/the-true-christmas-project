@@ -64,7 +64,7 @@ permalink: "/get_involved/index.html"
         <h3 data-i18n="getInvolved.candy_cane_outreach.group.title">Optional Group Outreach</h3>
         <p class="pg-st" data-i18n="getInvolved.candy_cane_outreach.group.text">
           Invite your church, youth group, or Bible study to take part.
-          Hosting a candy cane packing night or outreach walk is a fun and effective way to reach more people together.
+          Hosting a candy cane packing night or outreach walk is a fun and effective way to reach more people together. Like numbers like us? Request a special QR code that we can track views for via our systems <a target="_blank" href="https://forms.gle/h95DafJAeXEdw6LH6">here</a>!
         </p>
 
         <h3 data-i18n="getInvolved.candy_cane_outreach.ready.title">Ready to Begin?</h3>

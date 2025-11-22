@@ -1,7 +1,8 @@
 {
-  "translationBy": ["ChatGPT"],
-  "translationEditedBy": [""],
-  "translationMostRecentUpdate": "11/19/2025",
+"translationBy": "Traducido por: Aplicación de Traducción",
+"translationEditedBy": "Edición de la traducción por:",
+"translationProofedBy": "Revisión de la traducción por: No Revisado",
+"translationMostRecentUpdate": "Traducción actualizada: 11/22/2025",
   "title": "El Verdadero Proyecto de Navidad",
   "nav": {
     "about": "Acerca de",
@@ -23,7 +24,7 @@
   },
   "mission": "El Verdadero Proyecto de Navidad existe para reenfocar los corazones en el verdadero significado de la Navidad: el nacimiento de Cristo, el Salvador prometido y la Luz que entró en nuestro mundo oscuro. En una cultura que entierra el evangelio bajo ruido, comercialismo y distracciones, nuestro objetivo es levantar la vista hacia el pesebre—de nuevo hacia Jesús, Dios con nosotros. A través del simple regalo de un bastón de caramelo acompañado de un código QR que enlaza a recursos bíblicamente fieles, proclamamos las Buenas Nuevas, animamos a los creyentes y conectamos a las personas con iglesias locales que creen y enseñan la Biblia. Equipamos a voluntarios y comunidades para participar mediante distribución, traducción, redacción y colaboración con iglesias, todo para que Cristo sea exaltado y Su evangelio sea dado a conocer. Cada acto se realiza libre, alegre y únicamente para la gloria de Dios, señalando a todos hacia la esperanza que solo se encuentra en Jesús.",
   "noise_nativity": "El Ruido y la Natividad",
-  "candy_cane": "La Historia del Bastón de Caramelo",
+  "candy_cane": "El Bastón de Caramelo, la Cruz y el Salvador",
   "voices_season": "Voces de la Temporada",
   "get_involved": "Involúcrate",
   "about_us": "Acerca de Nosotros",
@@ -42,7 +43,20 @@
   "editor": "Editor(es):",
   "publish": "Publicado:",
   "story": {
-    "title": "La Historia del Bastón de Caramelo"
+    "title": "El Bastón de Caramelo, la Cruz y el Salvador",
+    "p1": "¿Alguna vez te has preguntado por qué los bastones de caramelo aparecen casi como por arte de magia cada temporada de Navidad? No aparecen en primavera, no llenan los estantes en verano y no son el dulce preferido en otoño. Pero una vez que llega noviembre, estos ganchos rojos y blancos parecen estar en todas partes.",
+    "p2": "Y aunque la gente debate exactamente cómo se inventó el bastón de caramelo, sabemos una cosa con seguridad: el bastón de caramelo no es solo una decoración ni una distracción azucarada. Es un pequeño sermón ansioso por contar su historia. Para un objeto tan pequeño y aparentemente común, lleva un mensaje fuerte. Cada franja, cada color, cada curva apunta a Jesús.",
+    "p3": "Imagina un bastón de caramelo rojo y blanco colgado del árbol. Ahora concéntrate en las franjas rojas. ¿Qué crees que representan? Las franjas rojas nos recuerdan la sangre que Jesús derramaría un día en la cruz. La Navidad celebra Su nacimiento, pero incluso en el pesebre hay un eco de Su misión. El rojo nos recuerda que Jesús no vino solo para ser admirado—Él vino para rescatar. Vino a ponerse en nuestro lugar. Vino a tomar el castigo por nuestros pecados.",
+    "p4": "Ahora mira las franjas blancas; ¿qué suele simbolizar el blanco? ¿Pureza? ¿Nieve? ¿Santidad? Si es así, estás en lo correcto. Las franjas blancas señalan la vida perfecta, pura y sin pecado de Jesús. Él fue completamente Dios y completamente hombre, y aun así sin una sola mancha de pecado. El blanco también declara lo que Él hace por nosotros: Él toma corazones manchados por la culpa y el pecado y los lava para dejarlos tan blancos como la nieve (Isaías 1:18). Jesús no vino simplemente para morir por nuestros pecados y perdonarnos; Él vino para transformar nuestros corazones y mentes desde adentro. Él vino para hacernos una nueva creación.",
+    "p5": "Ahora considera la forma colgada en tu árbol imaginario. ¿Ves la curva en la parte superior? ¿A qué se parece? A un cayado de pastor—simple, humilde y curvado para rescatar ovejas que se han desviado. Esta forma nos lleva de regreso a los pastores en Lucas 2, las primeras personas en escuchar a los ángeles proclamar el nacimiento de Cristo. Dios no habló primero a reyes, estudiosos o ricos—Él eligió a simples pastores que cuidaban sus ovejas en campos tranquilos.",
+    "p6": "El cayado también nos recuerda que Jesús es nuestro Buen Pastor. Él conoce a Sus ovejas—a nosotros—nos llama por nombre, nos guía, nos protege e incluso nos busca cuando nos desviamos. ¿Alguna vez te has sentido perdido o inseguro de a dónde ir? ¿O has necesitado que alguien te guíe—quizás un padre o un mentor? Oculto en este simple dulce hay un recordatorio de que Jesús es nuestro guía, nuestra lámpara y nuestro protector que nunca abandona a Su rebaño.",
+    "p7": "Ahora gira el bastón de caramelo boca abajo. ¿Qué ves? ¿Una <i>J</i>? ¡J de Jesús! Es simple—quizá incluso un poco cursi—pero increíblemente profundo. Todo el mensaje del bastón de caramelo depende de Su nombre. Todo en él apunta a Él: Su vida, Su muerte, Su pureza, Su sacrificio, Su cuidado como Pastor. En un mundo lleno de símbolos que no significan nada, aquí hay uno que lo significa <i>todo</i>.",
+    "p8": "Si juntas todo esto, el bastón de caramelo se convierte en más que un dulce. Se convierte en un símbolo lleno de verdad para recordarnos cada año.",
+    "list1": "Jesús vino al mundo con un propósito.",
+    "list2": "Jesús vivió una vida perfecta, santa y sin pecado.",
+    "list3": "Jesús derramó Su sangre para salvarnos.",
+    "list4": "Jesús guía y protege a Su pueblo como un Pastor fiel.",
+    "p9": "Así que la próxima vez que abras un bastón de caramelo, tómate un momento para detenerte. Considera lo que Jesús ha hecho por ti. Con cada sabor dulce, recuerda que Jesús cuida de Su pueblo y los protege. Deja que te recuerde una verdad aún más dulce: que el Salvador que entró en nuestro mundo en Navidad hace dos mil años es el mismo Salvador que aún guía, aún perdona y aún trae esperanza a todos los que creen. Y si no eres cristiano, piensa en esto. Piensa en lo que Jesús hizo por ti. Y considera cómo elegirás responder."
   },
   "essay": {
     "title": "El Ruido y la Natividad",
@@ -180,7 +194,8 @@
   "submissions": {
     "button": "Leer aquí",
     "Example Essay": {
-      "title": "Prueba 1"
+      "title": "Prueba 1",
+      "ask": "¡Todavía no tenemos ninguna presentación! ¡Intenta enviar una! <a href=\"/get_involved\">Consulta nuestra página de Participa para más detalles</a>!"
     }
   }
 }

@@ -36,8 +36,7 @@
   }
 
   .pg-st { /* Paragraph start*/
-    text-indent: 1.5em;
-    padding-left: 20px;
+    padding-left: 40px;
   }
 
   /* Essay meta info styling */
@@ -81,5 +80,8 @@
       line-height: 1.4;
       font-family: var(--cormant-ft);
     }  
+    .pg-st { 
+      padding-left: 30px;
+    }
   }
 }
